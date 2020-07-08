@@ -206,5 +206,13 @@ body
     padding: 10px;
     font-size: 40px;
 }
+@media (max-width: 576px) {  
 
+#about img{
+ display: none;
+}
+
+
+}
+ 
 
