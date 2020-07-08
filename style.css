@@ -209,7 +209,7 @@ body
 @media (max-width: 576px) {  
 
 /* #about img{
- display: none;
+ display: fluid;
 } */
 #skills h1 {
     font-size: 15px;
