@@ -208,9 +208,9 @@ body
 }
 @media (max-width: 576px) {  
 
-/* #about img{
- display: fluid;
-} */
+#about img{
+ display: none;
+}
 #skills h1 {
     font-size: 15px;
 }
