@@ -46,6 +46,8 @@ body
 .profile-img
 {
     height: 400px;
+   
+    margin-top: 50px;
 }
 
 .nav-bar
@@ -214,6 +216,23 @@ body
 #skills h1 {
     font-size: 15px;
 }
+
+}
+
+
+@media (max-width: 768px){
+
+    .profile-img {
+        height: 400px;
+        width: 340px;
+     
+       
+        margin-top: 80px;
+    }
+
+    
+
+
 
 }
  
